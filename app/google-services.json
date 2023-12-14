@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706936309077",
+    "project_id": "csioos",
+    "storage_bucket": "csioos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706936309077:android:8f5386a0569f8199ba5bdc",
+        "android_client_info": {
+          "package_name": "com.aces.cioosip.project.CIOOS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ZlCGfFNqcK-oyNx9yNJHnUUB1jNNAKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
